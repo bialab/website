@@ -6,13 +6,21 @@ body {
 .header{
   text-align: center;
 }
+.acc {
+  margin: 40px auto;
+  padding: 20px 30px 40px 30px;
+  background-color: antiquewhite;
+}
 .classes{
   margin: 40px auto;
   padding: 20px 30px 40px 30px;
   background-color: antiquewhite;
 }
-h2{
+h1{
   font-size: 18px;
 }
+
+
+
 
 
