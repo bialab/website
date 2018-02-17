@@ -1,1 +1,18 @@
+body {
+  color:#352926;
+  background-color: #9EB599;
+  font-family:'Palatino', sans-serif; 
+  }
+.header{
+  text-align: center;
+}
+.classes{
+  margin: 40px auto;
+  padding: 20px 30px 40px 30px;
+  background-color: antiquewhite;
+}
+h2{
+  font-size: 18px;
+}
+
 
