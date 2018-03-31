@@ -1,14 +1,25 @@
 body {
   color:#352926;
-  background-color: salmon;
+  background-color: pink;
   font-family:'Palatino', sans-serif; 
   }
+.header {
+    padding: 80px;
+    font-family: 'Palatino', sans-serif;
+    text-align: center;
+    background: hsla(9, 100%, 73%, 0.5);
+    color: antiquewhite;
+}
+
+.header h1 {
+    font-size: 40px;
+}
+
 .about {
   margin: 40px auto;
   padding: 20px 30px 40px 30px;
   background-color: white;
 }
-
 .nav {
     background-color: white;
     overflow: hidden;
@@ -29,6 +40,4 @@ body {
  .nav a.active {
     background-color: #ddd;
     color: black;
-
-
-
+}
