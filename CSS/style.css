@@ -39,8 +39,8 @@ body {
     color: black;
     }
  .nav a.active {
-    background-color: #ddd;
-    color: black;
+    background-color: antiquewhite;
+    color: hsla(9, 100%, 73%, 0.5);
     }
 .rotateimg270 {
   -webkit-transform:rotate(180deg);
