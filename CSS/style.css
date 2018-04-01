@@ -42,13 +42,7 @@ body {
     background-color: antiquewhite;
     color: hsla(9, 100%, 73%, 0.5);
     }
-.rotateimg270 {
-  -webkit-transform:rotate(180deg);
-  -moz-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  -o-transform: rotate(180deg);
-  transform: rotate(180deg);
-}
+.rotatified {transform: rotate(180deg);}
 .slides {
    background-color: white;
    }
