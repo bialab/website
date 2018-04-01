@@ -42,7 +42,7 @@ body {
     background-color: antiquewhite;
     color: hsla(9, 100%, 73%, 0.5);
     }
-.rotatified {transform: rotate(90deg);}
+
 .slides {
    background-color: white;
    }
