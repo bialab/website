@@ -1,14 +1,15 @@
 body {
   color:black;
-  background-color: white;
+  background-color: transparent;
   font-family:'Palatino', sans-serif; 
+  background-image: url('nyclamppost.jpg')
   }
 .header {
     padding: 80px;
     font-family: 'Palatino', sans-serif;
     text-align: center;
-    background: hsla(9, 100%, 73%, 0.5);
-    color: antiquewhite;
+    background: transparent;
+    color: black;
 }
 
 .header h1 {
@@ -18,11 +19,11 @@ body {
 .about {
   margin: 40px auto;
   padding: 20px 30px 40px 30px;
-  background-color: hsla(9, 100%, 73%, 0.5);
+  background-color: white;
 }
 
 .nav {
-    background-color:hsla(9, 100%, 73%, 0.5);
+    background-color:transparent;
     overflow: hidden;
 }
 
