@@ -2,8 +2,9 @@ body {
   color:black;
   background-color: transparent;
   font-family:'Palatino', sans-serif; 
-  background-image: url('nyclamppost.jpg')
+  background-image: url('nyclamppost.jpg') 
   }
+  
 .header {
     padding: 80px;
     font-family: 'Palatino', sans-serif;
@@ -23,25 +24,25 @@ body {
 }
 
 .nav {
-    background-color:transparent;
+    background-color:hsla(9, 100%, 73%, 0.5);
     overflow: hidden;
 }
 
 .nav a {
     float: center;
-    color: antiquewhite ;
+    color: black ;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 16px;
 }
 .nav a:hover {
-    background-color: #ddd;
+    background-color: transparent;
     color: black;
     }
  .nav a.active {
-    background-color: antiquewhite;
-    color: hsla(9, 100%, 73%, 0.5);
+    background-color:transparent;
+    color: white;
     }
 
 .slides {
