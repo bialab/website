@@ -24,8 +24,9 @@ body {
 }
 
 .nav {
-    background-color:hsla(9, 100%, 73%, 0.5);
+    background-color:transparent;
     overflow: hidden;
+    text-align: center;
 }
 
 .nav a {
