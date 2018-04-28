@@ -1,8 +1,9 @@
 body {
   color:black;
   font-family:'Didot', sans-serif; 
-  background-color:tan;
+  background-color: tan;
   }
+  
   
 .header {
     padding: 80px;
@@ -16,10 +17,17 @@ body {
     font-size: 40px;
 }
 
-.about {
+.body {
   margin: 25px 50px 75px 100px;
   padding: 30px 50px 75px 100px;
   background-color: white;
+}
+.body h2{
+  font-size:20px;
+}
+
+.body p{
+  font-size: 13px;
 }
 
 .nav {
@@ -44,7 +52,3 @@ body {
     background-color:transparent;
     color: white;
     }
-
-.slides {
-   background-color: white;
-   }
